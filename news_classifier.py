@@ -2,7 +2,7 @@ from google import genai
 from google.genai import types
 
 # 1. Initialize the client with your new API key
-client = genai.Client(api_key="AIzaSyBPRkJ8ArYT6BuReeiPg3yI5r6xVOnBI28")
+client = genai.Client(api_key="AIzaSyBSrCcgldNv2PbJ4yQPZc_ApKUClykqI6g")
 
 
 def check_for_fake_news(text):
